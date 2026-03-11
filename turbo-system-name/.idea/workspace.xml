@@ -5,64 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ead6ba4d-f71b-429d-b543-2de949f4c014" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Fronted/admin.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fronted/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fronted/create-ad.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fronted/favorites.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fronted/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fronted/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fronted/my-ads.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fronted/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fronted/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/ElvinApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/controller/AdvertisementController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/controller/AuthController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/controller/BrandController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/controller/FavoriteController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/controller/ModelController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/entity/AdvertisementEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/entity/BrandEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/entity/FavoriteEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/entity/ModelEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/entity/RoleEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/entity/UserEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/exception/BadRequestException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/exception/ForbiddenException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/exception/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/exception/ResourceNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/repository/AdvertisementRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/repository/BrandRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/repository/FavoriteRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/repository/ModelRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/repository/RoleRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/request/AdCreateRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/request/AdUpdateRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/request/BrandRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/request/LoginRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/request/ModelRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/request/RegisterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/response/ApiResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/response/AuthResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/security/DataInit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/security/JwtAuthFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/security/JwtService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/security/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/service/AdvertisementService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/service/AuthService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/service/BrandService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/service/FavoriteService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/service/ModelService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/az/developia/turbo_system_name/Project/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/az/developia/turbo_system_name/ElvinApplicationTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java.se/src/Lesson84/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java.se/src/Lesson84/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java.se/src/Lesson84/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java.se/src/Lesson84/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java.se/src/Lesson84/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java.se/src/Lesson85/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java.se/src/Lesson85/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turbo.az lahiye/demo/src/main/java/az/developia/demo/Project/BrandEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turbo.az lahiye/demo/src/main/java/az/developia/demo/Project/BrandRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turbo.az lahiye/demo/src/main/java/az/developia/demo/Project/CarController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turbo.az lahiye/demo/src/main/java/az/developia/demo/Project/CarEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turbo.az lahiye/demo/src/main/java/az/developia/demo/Project/CarRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turbo.az lahiye/demo/src/main/java/az/developia/demo/Project/ModelEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turbo.az lahiye/demo/src/main/java/az/developia/demo/Project/ModelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turbo.az lahiye/demo/src/main/java/az/developia/demo/Project/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turbo.az lahiye/demo/src/main/java/az/developia/demo/Project/UserEntity.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,25 +62,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/OneDrive/Belgeler/GitHub/Turbo.azproject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/OneDrive/Belgeler/GitHub/Turbo.azproject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ElvinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -147,6 +106,8 @@
       <workItem from="1771664952619" duration="10302000" />
       <workItem from="1771692711047" duration="6084000" />
       <workItem from="1771744298131" duration="2125000" />
+      <workItem from="1773249907337" duration="13000" />
+      <workItem from="1773250185716" duration="21000" />
     </task>
     <servers />
   </component>
